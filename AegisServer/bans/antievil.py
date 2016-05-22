@@ -1,0 +1,1 @@
+#Anti takeovers unless self takeover?

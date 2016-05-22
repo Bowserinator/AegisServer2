@@ -1,0 +1,529 @@
+{
+    "botters/bwbellairs": {
+        "cities": {
+            "Auerbach": {
+                "population": 1926462
+            },
+            "Badalzungen": {
+                "population": 1075658
+            },
+            "Badoberan": {
+                "population": 745190
+            },
+            "Calau": {
+                "population": 1842885
+            },
+            "Cloppenburg": {
+                "population": 1451506
+            },
+            "Ebersbergland": {
+                "population": 207965
+            },
+            "Freising": {
+                "population": 1692775
+            },
+            "Genthin": {
+                "population": 692065
+            },
+            "Greifswald": {
+                "population": 314370
+            },
+            "Gustrowland": {
+                "population": 372471
+            },
+            "Iserlohnside": {
+                "population": 1337075
+            },
+            "Kronachtown": {
+                "population": 941936
+            },
+            "Neustrelitz": {
+                "population": 1655624
+            },
+            "New Gutersloh": {
+                "population": 1704816
+            },
+            "North Mainburg": {
+                "population": 1236389
+            },
+            "Ochsenfurtview": {
+                "population": 1771275
+            },
+            "Port Duren": {
+                "population": 920719
+            },
+            "Recklinghausen": {
+                "population": 1930020
+            },
+            "Rochlitz": {
+                "population": 278353
+            },
+            "Steinfurt": {
+                "population": 235910
+            }
+        },
+        "crime_rate": 0.2,
+        "exports": 0,
+        "hostmask": "botters/bwbellairs",
+        "imports": 0,
+        "inventory": {},
+        "major_structures": {
+            "particle_collider": 0,
+            "radio_telescope": 0,
+            "temples": 0
+        },
+        "money": 100000000000,
+        "name": "Azure",
+        "nationalism": 0,
+        "owner": "botters/bwbellairs",
+        "pollution": 10.0,
+        "structures": {
+            "air_scrubbers": 0,
+            "bunkers": 10,
+            "clean_factories": 10,
+            "coal_plant": 100,
+            "factories": 100,
+            "hydro_dam": 0,
+            "labs": 10,
+            "military_bases": 10,
+            "mines": 100,
+            "nuclear_plant": 0,
+            "solar_plant": 0,
+            "wind_plant": 0
+        },
+        "support": 0.5,
+        "tech_level": 80,
+        "total_population": 122333464,
+        "type": 3,
+        "weapons": {
+            "aircraft": 0,
+            "bioweapon": 0,
+            "missile": 0,
+            "nukes": 0,
+            "people": 0,
+            "ships": 0,
+            "tanks": 0
+        }
+    },
+    "cadoth.net": {
+        "cities": {
+            "Amberg": {
+                "population": 1002271
+            },
+            "Aue": {
+                "population": 1113221
+            },
+            "Berchtesgaden": {
+                "population": 1498167
+            },
+            "Burgdorfmouth": {
+                "population": 1952882
+            },
+            "Dinkelsbuhlport": {
+                "population": 1042840
+            },
+            "East Crailsheim": {
+                "population": 907069
+            },
+            "East Wiedenbruckberg": {
+                "population": 1157747
+            },
+            "Griesbach Rottal": {
+                "population": 592388
+            },
+            "Hunfeld": {
+                "population": 817555
+            },
+            "Juterbog": {
+                "population": 949221
+            },
+            "Lake Nurtingenburgh": {
+                "population": 595906
+            },
+            "New Gutersloh": {
+                "population": 317803
+            },
+            "New Neuss": {
+                "population": 1415623
+            },
+            "New Saarbrucken": {
+                "population": 767468
+            },
+            "New Witzenhausen": {
+                "population": 1692183
+            },
+            "Northeim": {
+                "population": 1695831
+            },
+            "Oberviechtachport": {
+                "population": 1487602
+            },
+            "StaBfurt": {
+                "population": 1412664
+            },
+            "Waldmunchen": {
+                "population": 426509
+            },
+            "Wurzen": {
+                "population": 1992304
+            }
+        },
+        "crime_rate": 0.2,
+        "exports": 0,
+        "hostmask": "cadoth.net",
+        "imports": 0,
+        "inventory": {},
+        "major_structures": {
+            "particle_collider": 0,
+            "radio_telescope": 0,
+            "temples": 0
+        },
+        "money": 100000000000,
+        "name": "Trumpland",
+        "nationalism": 0,
+        "owner": "cadoth.net",
+        "pollution": 10.0,
+        "structures": {
+            "air_scrubbers": 0,
+            "bunkers": 10,
+            "clean_factories": 10,
+            "coal_plant": 100,
+            "factories": 100,
+            "hydro_dam": 0,
+            "labs": 10,
+            "military_bases": 10,
+            "mines": 100,
+            "nuclear_plant": 0,
+            "solar_plant": 0,
+            "wind_plant": 0
+        },
+        "support": 0.5,
+        "tech_level": 80,
+        "total_population": 122837254,
+        "type": 2,
+        "weapons": {
+            "aircraft": 0,
+            "bioweapon": 0,
+            "missile": 0,
+            "nukes": 0,
+            "people": 0,
+            "ships": 0,
+            "tanks": 0
+        }
+    },
+    "unaffiliated/bowserinator": {
+        "cities": {
+            "East Dobeln": {
+                "population": 352062
+            },
+            "Eisenach": {
+                "population": 251462
+            },
+            "Feuchtwangen": {
+                "population": 1919929
+            },
+            "Gottingen": {
+                "population": 1759993
+            },
+            "Greiz": {
+                "population": 1111283
+            },
+            "New Hildesheim": {
+                "population": 1772334
+            },
+            "North Hildesheim": {
+                "population": 423561
+            },
+            "North Kotzting": {
+                "population": 1205230
+            },
+            "Pasewalk": {
+                "population": 536874
+            },
+            "Peineburgh": {
+                "population": 872694
+            },
+            "Pirmasens": {
+                "population": 1983822
+            },
+            "Regensburg": {
+                "population": 247887
+            },
+            "Regensburgbury": {
+                "population": 799502
+            },
+            "Rottweil": {
+                "population": 1633557
+            },
+            "South Stadtsteinachmouth": {
+                "population": 1580821
+            },
+            "Sternberg": {
+                "population": 1363655
+            },
+            "Tirschenreuth": {
+                "population": 747442
+            },
+            "West Melsungen": {
+                "population": 308671
+            },
+            "Wolfachport": {
+                "population": 1480773
+            }
+        },
+        "crime_rate": 0.2,
+        "exports": 0,
+        "hostmask": "unaffiliated/bowserinator",
+        "imports": 0,
+        "inventory": {},
+        "major_structures": {
+            "particle_collider": 0,
+            "radio_telescope": 0,
+            "temples": 0
+        },
+        "money": 100000000000,
+        "name": "Bowser Empire",
+        "nationalism": 0,
+        "owner": "unaffiliated/bowserinator",
+        "pollution": 10.0,
+        "structures": {
+            "air_scrubbers": 0,
+            "bunkers": 10,
+            "clean_factories": 10,
+            "coal_plant": 100,
+            "factories": 100,
+            "hydro_dam": 0,
+            "labs": 10,
+            "military_bases": 10,
+            "mines": 100,
+            "nuclear_plant": 0,
+            "solar_plant": 0,
+            "wind_plant": 0
+        },
+        "support": 0.5,
+        "tech_level": 80,
+        "total_population": 120351552,
+        "type": 3,
+        "weapons": {
+            "aircraft": 0,
+            "bioweapon": 0,
+            "missile": 0,
+            "nukes": 0,
+            "people": 0,
+            "ships": 0,
+            "tanks": 0
+        }
+    },
+    "unaffiliated/iovoid": {
+        "cities": {
+            "Anklammouth": {
+                "population": 1810682
+            },
+            "Arternhaven": {
+                "population": 1311666
+            },
+            "Aschaffenburgville": {
+                "population": 968096
+            },
+            "Belzig": {
+                "population": 1808246
+            },
+            "Belzigport": {
+                "population": 1942494
+            },
+            "Dieburg": {
+                "population": 447570
+            },
+            "Eggenfelden": {
+                "population": 1056968
+            },
+            "Freudenstadt": {
+                "population": 972024
+            },
+            "Fussentown": {
+                "population": 707777
+            },
+            "Garmisch-Partenkirchen": {
+                "population": 1851707
+            },
+            "Lichtenfelsfurt": {
+                "population": 1659557
+            },
+            "Lorrach": {
+                "population": 1375972
+            },
+            "New Butzowshire": {
+                "population": 733641
+            },
+            "North Bad Liebenwerdaborough": {
+                "population": 1313924
+            },
+            "North Dachau": {
+                "population": 1742706
+            },
+            "North Eisenach": {
+                "population": 1936450
+            },
+            "North Julichchester": {
+                "population": 1155613
+            },
+            "Staffelsteinhaven": {
+                "population": 392569
+            },
+            "Sternbergville": {
+                "population": 1151976
+            },
+            "Stollberg": {
+                "population": 1285927
+            }
+        },
+        "crime_rate": 0.2,
+        "exports": 0,
+        "hostmask": "unaffiliated/iovoid",
+        "imports": 0,
+        "inventory": {},
+        "major_structures": {
+            "particle_collider": 0,
+            "radio_telescope": 0,
+            "temples": 0
+        },
+        "money": 100000000000,
+        "name": "",
+        "nationalism": 0,
+        "owner": "unaffiliated/iovoid",
+        "pollution": 10.0,
+        "structures": {
+            "air_scrubbers": 0,
+            "bunkers": 10,
+            "clean_factories": 10,
+            "coal_plant": 100,
+            "factories": 100,
+            "hydro_dam": 0,
+            "labs": 10,
+            "military_bases": 10,
+            "mines": 100,
+            "nuclear_plant": 0,
+            "solar_plant": 0,
+            "wind_plant": 0
+        },
+        "support": 0.5,
+        "tech_level": 80,
+        "total_population": 125625565,
+        "type": 3,
+        "weapons": {
+            "aircraft": 0,
+            "bioweapon": 0,
+            "missile": 0,
+            "nukes": 0,
+            "people": 0,
+            "ships": 0,
+            "tanks": 0
+        }
+    },
+    "unaffiliated/jeda": {
+        "cities": {
+            "Ahaus": {
+                "population": 966878
+            },
+            "Aue": {
+                "population": 1156957
+            },
+            "Bad Liebenwerdaburgh": {
+                "population": 689899
+            },
+            "Bad Liebenwerdabury": {
+                "population": 1785023
+            },
+            "Borna": {
+                "population": 1912602
+            },
+            "Dobeln": {
+                "population": 1022542
+            },
+            "Forchheim": {
+                "population": 1765867
+            },
+            "Ludwigslustport": {
+                "population": 1142207
+            },
+            "New Schwabisch Gmund": {
+                "population": 481516
+            },
+            "North Kaiserslautern": {
+                "population": 1461911
+            },
+            "Nurtingenton": {
+                "population": 1245322
+            },
+            "Rathenow": {
+                "population": 712761
+            },
+            "Regen": {
+                "population": 1236896
+            },
+            "Roding": {
+                "population": 1090550
+            },
+            "Sigmaringen": {
+                "population": 491624
+            },
+            "South Brandenburg": {
+                "population": 585233
+            },
+            "South Halberstadtton": {
+                "population": 426270
+            },
+            "Stade": {
+                "population": 222605
+            },
+            "Torgaustad": {
+                "population": 549602
+            },
+            "Wolmirstedt": {
+                "population": 1077750
+            }
+        },
+        "crime_rate": 0.2,
+        "exports": 0,
+        "hostmask": "unaffiliated/jeda",
+        "imports": 0,
+        "inventory": {},
+        "major_structures": {
+            "particle_collider": 0,
+            "radio_telescope": 0,
+            "temples": 0
+        },
+        "money": 100000000000,
+        "name": "dictator",
+        "nationalism": 0,
+        "owner": "unaffiliated/jeda",
+        "pollution": 10.0,
+        "structures": {
+            "air_scrubbers": 0,
+            "bunkers": 10,
+            "clean_factories": 10,
+            "coal_plant": 100,
+            "factories": 100,
+            "hydro_dam": 0,
+            "labs": 10,
+            "military_bases": 10,
+            "mines": 100,
+            "nuclear_plant": 0,
+            "solar_plant": 0,
+            "wind_plant": 0
+        },
+        "support": 0.5,
+        "tech_level": 80,
+        "total_population": 120024015,
+        "type": 1,
+        "weapons": {
+            "aircraft": 0,
+            "bioweapon": 0,
+            "missile": 0,
+            "nukes": 0,
+            "people": 0,
+            "ships": 0,
+            "tanks": 0
+        }
+    }
+}

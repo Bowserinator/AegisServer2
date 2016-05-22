@@ -1,0 +1,1 @@
+#Op users, deop, voice, unvoice, stab, unstab, kban, fkban, ankban, ban, unban, kick, kickme, banme
