@@ -9,11 +9,13 @@ server = "irc.freenode.net"
 port = 6667
 ssl = False
 
-channels = ["##FightBot","#ezzybot-bots","##powder-mc","##powder-bots","##jpec-south","##bowserinator","#ezzybot-bots","#botters-test","#aegisserver","##takeover","#ezzybot","##bowserinator-test"]
+#channels = ["##FightBot","#ezzybot-bots","##powder-mc","##powder-bots","##jpec-south","##bowserinator","#ezzybot-bots","#botters-test","#aegisserver","##takeover","#ezzybot","##bowserinator-test"]
+channels = ["##channel"]
 nick = "AegisServer2"
 quit_message = "Despite goodwill, human intimacy cannot occur without substantial mutual harm"
 commandChar = "@"
-password = "aegispass"
+# password = "aegispass"
+password = "password"
 
 ip = "58.208.197.104.bc.googleusercontent.com"
 banmask = nick + "@" + ip
@@ -24,6 +26,6 @@ botnick = nick
 
 #TODO: channel class with perms per channel
 userPerms = {
-    "unaffiliated/bowserinator":100000,
-    "unaffiliated/jeffl35":50,
+#    "unaffiliated/bowserinator":100000,
+#    "unaffiliated/jeffl35":50,
 }
