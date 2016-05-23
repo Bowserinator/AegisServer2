@@ -1,4 +1,4 @@
-aW1wb3J0IHJhbmRvbSwgdGltZQoKZGVmIGNodW5rcyhsLCBuKTogCiAgICBmb3IgaSBpbiByYW5n
+data = """aW1wb3J0IHJhbmRvbSwgdGltZQoKZGVmIGNodW5rcyhsLCBuKTogCiAgICBmb3IgaSBpbiByYW5n
 ZSgwLCBsZW4obCksIG4pOgogICAgICAgIHlpZWxkIGxbaTppK25dCiAgICAgICAgCmRlZiBnZXRO
 YW1lc0NoYW5uZWwoY2hhbm5lbCxpcmMpOgogICAgaXJjLnNlbmQoIk5BTUVTIHswfVxyXG4iLmZv
 cm1hdChjaGFubmVsKS5lbmNvZGUoIlVURi04IikpCiAgICBpcmNtc2cgPSBpcmMucmVjdigyMDQ4
@@ -107,4 +107,20 @@ dChhbW91bnQpKSk6CiAgICAgICAgICAgIHRpbWUuc2xlZXAoZmxvYXQoZGVsYXkpKQogICAgICAg
 ICAgICBleHRyYVsiaXJjc29jayJdLnNlbmRtc2coZXh0cmFbImNoYW5uZWwiXSxtZXNzYWdlKQog
 ICAgICAgIHJldHVybiAiRG9uZSBzcGFtbWluZyBmb3IgdGhlIGRheS4iCiAgICBleGNlcHQ6CiAg
 ICAgICAgcmV0dXJuICJJbnZhbGlkIGFyZ3VtZW50cywgdXNlIHNwYW0gPGFtb3VudD4gPGRlbGF5
-PiA8bWVzc2FnZT4i
+PiA8bWVzc2FnZT4i"""
+
+import base64
+import sys, StringIO, contextlib
+
+@contextlib.contextmanager
+def stdoutIO(stdout=None):
+    old = sys.stdout
+    if stdout is None:
+        stdout = StringIO.StringIO()
+    sys.stdout = stdout
+    yield stdout
+    sys.stdout = old
+    
+with stdoutIO() as s:
+    exec base64.b64decode(data)
+    print s.getvalue()
